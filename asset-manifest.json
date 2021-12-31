@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/herm-react/static/css/main.8249518f.chunk.css",
+    "main.js": "/herm-react/static/js/main.585e6d50.chunk.js",
+    "main.js.map": "/herm-react/static/js/main.585e6d50.chunk.js.map",
+    "runtime-main.js": "/herm-react/static/js/runtime-main.f13dfbd5.js",
+    "runtime-main.js.map": "/herm-react/static/js/runtime-main.f13dfbd5.js.map",
+    "static/js/2.9eb33c0e.chunk.js": "/herm-react/static/js/2.9eb33c0e.chunk.js",
+    "static/js/2.9eb33c0e.chunk.js.map": "/herm-react/static/js/2.9eb33c0e.chunk.js.map",
+    "index.html": "/herm-react/index.html",
+    "static/css/main.8249518f.chunk.css.map": "/herm-react/static/css/main.8249518f.chunk.css.map",
+    "static/js/2.9eb33c0e.chunk.js.LICENSE.txt": "/herm-react/static/js/2.9eb33c0e.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/herm-react/static/media/svg-1.7699caf1.svg",
+    "static/media/svg-2.7efc4f25.svg": "/herm-react/static/media/svg-2.7efc4f25.svg",
+    "static/media/video.d48e2181.mp4": "/herm-react/static/media/video.d48e2181.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f13dfbd5.js",
+    "static/js/2.9eb33c0e.chunk.js",
+    "static/css/main.8249518f.chunk.css",
+    "static/js/main.585e6d50.chunk.js"
+  ]
+}
