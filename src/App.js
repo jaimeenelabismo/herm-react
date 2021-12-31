@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route exact path="https://www.hermes-music.com.mx/assets/react/" element={<Home/>}  />   
+        <Route exact path="/" element={<Home/>}  />   
         <Route exact path="/signin" element={<SigninPage/>} />
       </Routes>
     </Router>
