@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/herm-react/static/css/main.8249518f.chunk.css",
-    "main.js": "/herm-react/static/js/main.585e6d50.chunk.js",
-    "main.js.map": "/herm-react/static/js/main.585e6d50.chunk.js.map",
+    "main.js": "/herm-react/static/js/main.35ec5bec.chunk.js",
+    "main.js.map": "/herm-react/static/js/main.35ec5bec.chunk.js.map",
     "runtime-main.js": "/herm-react/static/js/runtime-main.f13dfbd5.js",
     "runtime-main.js.map": "/herm-react/static/js/runtime-main.f13dfbd5.js.map",
     "static/js/2.9eb33c0e.chunk.js": "/herm-react/static/js/2.9eb33c0e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f13dfbd5.js",
     "static/js/2.9eb33c0e.chunk.js",
     "static/css/main.8249518f.chunk.css",
-    "static/js/main.585e6d50.chunk.js"
+    "static/js/main.35ec5bec.chunk.js"
   ]
 }
